@@ -12,7 +12,7 @@ document.getElementById('btn-submit').addEventListener('click', function () {
 
     }
     else {
-        alert('tui password bhule gecos ture ajke phyci ami');
+        alert('akane duke ki hobe tar mone thuu dukte parla na');
     }
 
 })
